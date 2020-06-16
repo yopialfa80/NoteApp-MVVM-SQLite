@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="btnAdd">ADD More NOTE</string>
+</resources>
